@@ -36,8 +36,8 @@ Resources:
 - [checked](./public/icons/checked.svg)
 - [unchecked](./public/icons/unchecked.svg)
  --->
-    <!--- 
-## Tasks
+
+ <!--- ## Tasks
 1. Implement `TodoApp` component with an input field to create new todos on submit (Enter). Each item should have:
   - `title` - the text of todo
   - `id` - unique identifier
